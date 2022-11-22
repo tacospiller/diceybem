@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://raw.githubusercontent.com/tacospiller/cypher-system-json-schema/main/character.schema.json": "data/characters/*.yaml"
+    }
+}
